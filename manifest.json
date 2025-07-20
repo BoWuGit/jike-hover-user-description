@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "即刻头像悬浮简介",
+    "version": "1.0",
+    "description": "在即刻用户头像悬浮时显示简介框，类似Twitter那样",
+    "permissions": ["scripting"],
+    "host_permissions": [
+      "https://web.okjike.com/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://web.okjike.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
