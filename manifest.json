@@ -3,6 +3,11 @@
     "name": "即刻头像悬浮简介",
     "version": "1.0",
     "description": "在即刻用户头像悬浮时显示简介框，类似Twitter那样",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
     "permissions": ["scripting"],
     "host_permissions": [
       "https://web.okjike.com/*"

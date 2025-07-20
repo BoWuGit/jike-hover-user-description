@@ -61,7 +61,6 @@ function createProfilePopup(user, x, y) {
     </div>
     <div style="margin-top:10px;white-space:pre-line;color:#333;">${user.bio || user.briefIntro || "暂无简介"}</div>
     ${statsHtml}
-    ${user.wechatUserName ? `<div style="margin-top:10px;color:#888;font-size:13px;">WeChat: <b>${user.wechatUserName}</b></div>` : ""}
   `;
   document.body.appendChild(popup);
   return popup;
