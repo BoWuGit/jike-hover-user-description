@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "即刻头像悬浮显示简介",
+    "name": "即刻头像鼠标悬浮显示用户简介",
     "version": "1.0",
     "description": "鼠标在即刻用户头像或名称上悬浮时显示简介框，类似Twitter那样",
     "icons": {
