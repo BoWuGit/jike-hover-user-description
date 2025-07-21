@@ -8,7 +8,7 @@
       "48": "icon.png",
       "128": "icon.png"
     },
-    "permissions": ["scripting"],
+    "permissions": [],
     "host_permissions": [
       "https://web.okjike.com/*"
     ],
