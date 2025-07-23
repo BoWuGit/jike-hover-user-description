@@ -21,12 +21,19 @@
 - 设计还要polish
 - 别的浏览器的版本，Safari
 - API host读取getBase配置
+- darkmode
+- 移动端网站的支持，https://m.okjike.com/
+- 有时浮窗不立即消失的bug，可能发生在由post详情页返回Feed列表的时候
+- 评论在页面底部，卡片显示不全的问题
 
 
 ## 安装方法
 
 ### Chrome/Edge 浏览器
 
+[Chrome Web Store 安装（推荐）](https://chromewebstore.google.com/detail/hnbakdoibeogigpihopfjfjbacfmcfck?utm_source=item-share-cb)
+
+#### 手动安装（开发者模式）
 1. 下载项目文件到本地
 2. 打开浏览器扩展管理页面 (`chrome://extensions/`)
 3. 开启"开发者模式"
