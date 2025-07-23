@@ -31,7 +31,7 @@
 
 ### Chrome/Edge 浏览器
 
-[Chrome Web Store 安装（推荐）](https://chromewebstore.google.com/detail/hnbakdoibeogigpihopfjfjbacfmcfck?utm_source=item-share-cb)
+[Chrome Web Store 安装（推荐）](https://chromewebstore.google.com/detail/hnbakdoibeogigpihopfjfjbacfmcfck)
 
 #### 手动安装（开发者模式）
 1. 下载项目文件到本地
@@ -63,7 +63,6 @@
 - 个人简介
 - 关注数量
 - 粉丝数量
-- 微信用户名（如果有）
 
 ## 技术实现
 
